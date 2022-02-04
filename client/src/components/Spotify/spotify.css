@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Catamaran:wght@100&display=swap');
+
+* {
+    font-family: "Catamaran", "sans-serif";
+    background-image: linear-gradient(to bottom, rgb(14, 20, 26), black);
+    color: white;
+}
